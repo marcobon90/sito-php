@@ -1,0 +1,28 @@
+body {
+    box-sizing: border-box;
+    align-self: center;
+    /*
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    */
+}
+
+.contenitore {
+    background-color: white; /*Prima era #f2f2f2*/
+    max-width: 1200px; /* Imposta una larghezza massima di 1200 pixel */
+    margin: 30px auto; /* Centra il contenitore orizzontalmente */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: 'Golos Text', sans-serif;
+  }
+
+.principale {
+   width: 75%; 
+}
+
+.registrazione {
+  border: 2px solid red;
+}
