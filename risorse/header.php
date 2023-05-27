@@ -1,7 +1,7 @@
 <header class="testata-sito">
         <div class="row">
             <div class="logo">
-                <img src="Logo Infodit - 200 x 70.webp" alt="Sito-logo">
+                Inserisci un titolo o il logo per il sito
             </div>
         </div>
 </header>

@@ -12,7 +12,6 @@ require_once 'sviluppo/post.php';
 <body>
     <div class="contenitore">
         <?php include 'risorse/header.php' ?>
-        <?php include 'risorse/banner/banner.html' ?>
 
         <div class="principale">
             <?php if(esiste_post()) {
